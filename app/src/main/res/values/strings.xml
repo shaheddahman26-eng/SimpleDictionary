@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleDictionary</string>
+    <string name="add_word">Add Word</string>
+    <string name="edit_word">Edit Word</string>
+    <string name="hint_word">Word</string>
+    <string name="hint_meaning">Meaning</string>
+    <string name="save">SAVE</string>
+    <string name="empty_list">No words yet. Tap + to add one.</string>
+</resources>
